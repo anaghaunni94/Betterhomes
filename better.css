@@ -1,0 +1,92 @@
+.img {
+    width: 62%;
+    height: 100%;
+    padding: 19%;
+    position: relative;
+    background-attachment: fixed;
+}
+.header {
+    background-image: url("./images/int3.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(90, 79, 79);
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(153, 115, 9);
+    
+}
+.nav {
+    background-color: rgb(133, 69, 69);
+    padding: 6%;
+}
+.nav h1,.aside h1{
+    color: rgb(238, 214, 214);
+    font-size: 40px;
+    
+}
+.nav p,.aside p {
+    text-align: justify;
+    color: thistle;
+    font-size: 20px;
+}
+.main {
+    background-image: url("./images/int5.jpeg");
+    background-position: center;
+    background-size: cover;  
+}
+.main p {
+    font-size: 2rem;
+    color: rgb(238, 89, 63);
+    font-weight: bolder;
+    
+}
+.section {
+    background-color: white;
+    padding: 6%;
+}
+.section p {
+    font-size:20px;
+    color: rgb(48, 37, 36);
+    text-align: justify;  
+    line-height: 20px;
+}
+.section h1 {
+    font-size: 40px;
+    color: rgb(207, 21, 207);
+}
+.article {
+    background-image: url("./images/int2.jpeg");
+    background-position: center;
+    background-size: cover;  
+
+}
+.aside {
+    background-color:rgb(88, 85, 85);
+    padding: 6%;
+}
+
+.footer {
+    background-image: url("./images/int4.jpeg");
+    background-position: center;
+    background-size: cover;  
+
+}
+.footer h1 {
+    font-size: 60px;
+    color: rgb(73, 7, 18);
+    text-align:center;
+}
+.article h1 {
+    font-size: 60px;
+    color: rgb(37, 83, 7);
+    text-align: right;
+}
+
